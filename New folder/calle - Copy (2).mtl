@@ -1,0 +1,35 @@
+# Blender MTL File: 'yol.blend'
+# Material Count: 3
+
+newmtl yol
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\yavuz\Desktop\3Dproje1\texture resimler\kaldırım\FloorHerringbone0103_2_S.jpg
+
+newmtl yol_road_road_0017_01_preview.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd road\texture resimler\road_road_0017_01_preview.jpg
+
+newmtl yol_wallpaper-1931352.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\yavuz\Desktop\3Dproje1\texture resimler\wallpaper-1931352.jpg
